@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690640016533",
+    "project_id": "ecorp-ae0aa",
+    "storage_bucket": "ecorp-ae0aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690640016533:android:0f9ee3ba6e6bde36e3779c",
+        "android_client_info": {
+          "package_name": "com.example.e_corp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlZfLRaSHv6qdex4kTmYLF6325MlOT2FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
